@@ -7,7 +7,7 @@
 3.Install parcel by typing following command: npm install parcel -g
 
 4.Run parcel by typing following command on command prompt:
-    parcel desktop/sourceCode/index.html
+    parcel desktop/src/index.html
     
 5.Copy the address generated in command line, example : http://localhost:1234
 
