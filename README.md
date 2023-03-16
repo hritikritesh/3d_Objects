@@ -1,4 +1,4 @@
-# 3d Rotatable Ball with colour cahnges
+# 3d Rotatable Ball with colour changes
 
 1.Dowload repository in desktop folder
 2.Install node.js and npm
